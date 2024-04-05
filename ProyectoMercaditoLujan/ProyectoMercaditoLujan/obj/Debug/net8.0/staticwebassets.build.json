@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VwuMiZ+jjeXvrP6Z3beSefAuvRFe7XGejaHCLqisKoo=",
+  "Hash": "W9LfOXnvKmGvN2AW55Fcdjw/FY0ehXZYCmk13YV1Ix8=",
   "Source": "ProyectoMercaditoLujan",
   "BasePath": "_content/ProyectoMercaditoLujan",
   "Mode": "Default",
@@ -10,55 +10,17 @@
     {
       "Name": "ProyectoMercaditoLujan\\wwwroot",
       "Source": "ProyectoMercaditoLujan",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ProyectoMercaditoLujan.styles.css",
-      "SourceId": "ProyectoMercaditoLujan",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/ProyectoMercaditoLujan",
-      "RelativePath": "ProyectoMercaditoLujan.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ProyectoMercaditoLujan.styles.css"
-    },
-    {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProyectoMercaditoLujan.bundle.scp.css",
-      "SourceId": "ProyectoMercaditoLujan",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/ProyectoMercaditoLujan",
-      "RelativePath": "ProyectoMercaditoLujan.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProyectoMercaditoLujan.bundle.scp.css"
-    },
-    {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\all.min.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\all.min.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/all.min.css",
       "AssetKind": "All",
@@ -74,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\all.min.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\animate.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\animate.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/animate.css",
       "AssetKind": "All",
@@ -93,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\magnific-popup.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\magnific-popup.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/magnific-popup.css",
       "AssetKind": "All",
@@ -112,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\magnific-popup.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\main.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\main.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -131,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\meanmenu.min.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\meanmenu.min.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/meanmenu.min.css",
       "AssetKind": "All",
@@ -150,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\meanmenu.min.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\owl.carousel.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\owl.carousel.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/owl.carousel.css",
       "AssetKind": "All",
@@ -169,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\responsive.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -188,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\base\\_mixins.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\base\\_mixins.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/base/_mixins.scss",
       "AssetKind": "All",
@@ -207,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\base\\_mixins.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\base\\_typography.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\base\\_typography.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/base/_typography.scss",
       "AssetKind": "All",
@@ -226,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\base\\_typography.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\base\\_variables.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\base\\_variables.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/base/_variables.scss",
       "AssetKind": "All",
@@ -245,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\base\\_variables.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\common\\_common.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\common\\_common.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/common/_common.scss",
       "AssetKind": "All",
@@ -264,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\common\\_common.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\common\\_footer.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\common\\_footer.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/common/_footer.scss",
       "AssetKind": "All",
@@ -283,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\common\\_footer.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\common\\_header.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\common\\_header.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/common/_header.scss",
       "AssetKind": "All",
@@ -302,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\common\\_header.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\common\\_hover.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\common\\_hover.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/common/_hover.scss",
       "AssetKind": "All",
@@ -321,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\common\\_hover.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\main.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\main.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/main.scss",
       "AssetKind": "All",
@@ -340,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\main.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\pages\\_404.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\pages\\_404.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/pages/_404.css",
       "AssetKind": "All",
@@ -359,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\pages\\_404.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\pages\\_404.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\pages\\_404.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/pages/_404.scss",
       "AssetKind": "All",
@@ -378,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\pages\\_404.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\pages\\_about.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\pages\\_about.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/pages/_about.scss",
       "AssetKind": "All",
@@ -397,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\pages\\_about.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\pages\\_contact.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\pages\\_contact.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/pages/_contact.scss",
       "AssetKind": "All",
@@ -416,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\pages\\_contact.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\pages\\_shop.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\pages\\_shop.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/pages/_shop.scss",
       "AssetKind": "All",
@@ -435,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\pages\\_shop.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\prepros-6.config",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\prepros-6.config",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/prepros-6.config",
       "AssetKind": "All",
@@ -454,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\prepros-6.config"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\sections\\_about.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\sections\\_about.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/sections/_about.scss",
       "AssetKind": "All",
@@ -473,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_about.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\sections\\_cart-banner.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\sections\\_cart-banner.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/sections/_cart-banner.scss",
       "AssetKind": "All",
@@ -492,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_cart-banner.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\sections\\_hero.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\sections\\_hero.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/sections/_hero.scss",
       "AssetKind": "All",
@@ -511,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_hero.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\sections\\_list.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\sections\\_list.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/sections/_list.scss",
       "AssetKind": "All",
@@ -530,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_list.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\sections\\_news.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\sections\\_news.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/sections/_news.scss",
       "AssetKind": "All",
@@ -549,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_news.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\sections\\_shop-banner.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\sections\\_shop-banner.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/sections/_shop-banner.scss",
       "AssetKind": "All",
@@ -568,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_shop-banner.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\sections\\_testimonials.scss",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\scss\\sections\\_testimonials.scss",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/scss/sections/_testimonials.scss",
       "AssetKind": "All",
@@ -587,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_testimonials.scss"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\site.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -606,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\favicon.ico",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -625,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\1.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\1.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/1.jpg",
       "AssetKind": "All",
@@ -644,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\img\\1.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\a.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\a.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/a.jpg",
       "AssetKind": "All",
@@ -663,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\a.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\abt.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\abt.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/abt.jpg",
       "AssetKind": "All",
@@ -682,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\img\\abt.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\avaters\\avatar1.png",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\avaters\\avatar1.png",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/avaters/avatar1.png",
       "AssetKind": "All",
@@ -701,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\avaters\\avatar1.png"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\avaters\\avatar2.png",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\avaters\\avatar2.png",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/avaters/avatar2.png",
       "AssetKind": "All",
@@ -720,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\img\\avaters\\avatar2.png"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\avaters\\avatar3.png",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\avaters\\avatar3.png",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/avaters/avatar3.png",
       "AssetKind": "All",
@@ -739,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\img\\avaters\\avatar3.png"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\breadcrumb-bg.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\breadcrumb-bg.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/breadcrumb-bg.jpg",
       "AssetKind": "All",
@@ -758,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\breadcrumb-bg.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\company-logos\\1.png",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\company-logos\\1.png",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/company-logos/1.png",
       "AssetKind": "All",
@@ -777,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\img\\company-logos\\1.png"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\company-logos\\2.png",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\company-logos\\2.png",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/company-logos/2.png",
       "AssetKind": "All",
@@ -796,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\img\\company-logos\\2.png"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\company-logos\\3.png",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\company-logos\\3.png",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/company-logos/3.png",
       "AssetKind": "All",
@@ -815,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\img\\company-logos\\3.png"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\company-logos\\4.png",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\company-logos\\4.png",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/company-logos/4.png",
       "AssetKind": "All",
@@ -834,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\img\\company-logos\\4.png"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\company-logos\\5.png",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\company-logos\\5.png",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/company-logos/5.png",
       "AssetKind": "All",
@@ -853,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\img\\company-logos\\5.png"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\favicon.png",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\favicon.png",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/favicon.png",
       "AssetKind": "All",
@@ -872,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon.png"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\feature-bg.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\feature-bg.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/feature-bg.jpg",
       "AssetKind": "All",
@@ -891,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\feature-bg.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\hero-bg.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\hero-bg.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/hero-bg.jpg",
       "AssetKind": "All",
@@ -910,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hero-bg.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\hero-bg-2.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\hero-bg-2.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/hero-bg-2.jpg",
       "AssetKind": "All",
@@ -929,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hero-bg-2.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\hero-bg-3.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\hero-bg-3.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/hero-bg-3.jpg",
       "AssetKind": "All",
@@ -948,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hero-bg-3.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\homepage-bg-pattern.png",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\homepage-bg-pattern.png",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/homepage-bg-pattern.png",
       "AssetKind": "All",
@@ -967,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\img\\homepage-bg-pattern.png"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\latest-news\\news-bg-1.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\latest-news\\news-bg-1.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/latest-news/news-bg-1.jpg",
       "AssetKind": "All",
@@ -986,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\img\\latest-news\\news-bg-1.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\latest-news\\news-bg-2.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\latest-news\\news-bg-2.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/latest-news/news-bg-2.jpg",
       "AssetKind": "All",
@@ -1005,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\img\\latest-news\\news-bg-2.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\latest-news\\news-bg-3.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\latest-news\\news-bg-3.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/latest-news/news-bg-3.jpg",
       "AssetKind": "All",
@@ -1024,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\latest-news\\news-bg-3.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\latest-news\\news-bg-4.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\latest-news\\news-bg-4.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/latest-news/news-bg-4.jpg",
       "AssetKind": "All",
@@ -1043,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\img\\latest-news\\news-bg-4.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\latest-news\\news-bg-5.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\latest-news\\news-bg-5.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/latest-news/news-bg-5.jpg",
       "AssetKind": "All",
@@ -1062,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\img\\latest-news\\news-bg-5.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\latest-news\\news-bg-6.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\latest-news\\news-bg-6.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/latest-news/news-bg-6.jpg",
       "AssetKind": "All",
@@ -1081,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\img\\latest-news\\news-bg-6.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\logo.png",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -1100,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\products\\product-img-1.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\products\\product-img-1.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/products/product-img-1.jpg",
       "AssetKind": "All",
@@ -1119,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\product-img-1.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\products\\product-img-2.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\products\\product-img-2.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/products/product-img-2.jpg",
       "AssetKind": "All",
@@ -1138,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\product-img-2.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\products\\product-img-3.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\products\\product-img-3.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/products/product-img-3.jpg",
       "AssetKind": "All",
@@ -1157,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\product-img-3.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\products\\product-img-4.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\products\\product-img-4.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/products/product-img-4.jpg",
       "AssetKind": "All",
@@ -1176,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\product-img-4.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\products\\product-img-5.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\products\\product-img-5.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/products/product-img-5.jpg",
       "AssetKind": "All",
@@ -1195,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\product-img-5.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\products\\product-img-6.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\products\\product-img-6.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/products/product-img-6.jpg",
       "AssetKind": "All",
@@ -1214,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\product-img-6.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\team\\team-1.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\team\\team-1.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/team/team-1.jpg",
       "AssetKind": "All",
@@ -1233,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\team-1.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\team\\team-2.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\team\\team-2.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/team/team-2.jpg",
       "AssetKind": "All",
@@ -1252,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\team-2.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\team\\team-3.jpg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\img\\team\\team-3.jpg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "img/team/team-3.jpg",
       "AssetKind": "All",
@@ -1271,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\team-3.jpg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\form-validate.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\form-validate.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "js/form-validate.js",
       "AssetKind": "All",
@@ -1290,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\js\\form-validate.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery.countdown.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery.countdown.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "js/jquery.countdown.js",
       "AssetKind": "All",
@@ -1309,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.countdown.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery.isotope-3.0.6.min.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery.isotope-3.0.6.min.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "js/jquery.isotope-3.0.6.min.js",
       "AssetKind": "All",
@@ -1328,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.isotope-3.0.6.min.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "js/jquery.magnific-popup.min.js",
       "AssetKind": "All",
@@ -1347,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery.meanmenu.min.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery.meanmenu.min.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "js/jquery.meanmenu.min.js",
       "AssetKind": "All",
@@ -1366,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.meanmenu.min.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery-1.11.3.min.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery-1.11.3.min.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "js/jquery-1.11.3.min.js",
       "AssetKind": "All",
@@ -1385,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-1.11.3.min.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\main.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -1404,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\owl.carousel.min.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -1423,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\site.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1442,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\sticker.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\sticker.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "js/sticker.js",
       "AssetKind": "All",
@@ -1461,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\js\\sticker.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\waypoints.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\waypoints.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "js/waypoints.js",
       "AssetKind": "All",
@@ -1480,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\js\\waypoints.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -1499,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1518,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1537,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1556,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1575,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1594,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1613,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1632,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1651,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1670,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1689,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1708,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1727,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1746,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1765,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1784,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1803,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1822,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1841,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1860,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1879,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1898,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1917,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1936,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1955,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1974,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1993,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2012,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2031,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2050,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2069,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2088,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2107,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2126,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2145,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2164,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2183,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2202,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2221,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2240,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2259,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2278,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2297,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2316,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2335,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2354,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2373,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2392,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2411,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2430,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2449,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2468,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2487,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2506,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2525,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2544,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2563,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2582,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2601,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2620,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -2639,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2658,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2677,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2696,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2715,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2734,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2753,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2772,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2791,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2810,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2829,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2848,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2867,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2886,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2905,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2924,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2943,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-brands-400.eot",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -2962,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-brands-400.eot_",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-brands-400.eot_",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-brands-400.eot_",
       "AssetKind": "All",
@@ -2981,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.eot_"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-brands-400.svg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -3000,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-brands-400.ttf",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -3019,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-brands-400.woff",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -3038,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-brands-400.woff2",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -3057,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-regular-400.eot",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -3076,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-regular-400.eot_",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-regular-400.eot_",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-regular-400.eot_",
       "AssetKind": "All",
@@ -3095,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.eot_"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-regular-400.svg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -3114,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-regular-400.ttf",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -3133,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-regular-400.woff",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -3152,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-regular-400.woff2",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -3171,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-solid-900.eot",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -3190,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-solid-900.eot_",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-solid-900.eot_",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-solid-900.eot_",
       "AssetKind": "All",
@@ -3209,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.eot_"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-solid-900.svg",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -3228,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-solid-900.ttf",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -3247,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-solid-900.woff",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -3266,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\webfonts\\fa-solid-900.woff2",
       "SourceId": "ProyectoMercaditoLujan",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\",
       "BasePath": "_content/ProyectoMercaditoLujan",
       "RelativePath": "webfonts/fa-solid-900.woff2",
       "AssetKind": "All",

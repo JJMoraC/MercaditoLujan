@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan.csproj": {}
+    "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan.csproj": {}
   },
   "projects": {
-    "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan.csproj": {
+    "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan.csproj",
+        "projectUniqueName": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan.csproj",
         "projectName": "ProyectoMercaditoLujan",
-        "projectPath": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan.csproj",
-        "packagesPath": "C:\\Users\\daian\\.nuget\\packages\\",
-        "outputPath": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\obj\\",
+        "projectPath": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan.csproj",
+        "packagesPath": "C:\\Users\\black\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\black\\OneDrive\\Documentos\\Analisis de req\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\black\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200-preview.23624.5/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
