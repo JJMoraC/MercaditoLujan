@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoMercaditoLujan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd376438fd602478ed353eff2db9059d3f6e5b5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38f12e85293eae0745e0247041e6fe2f7006e67f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoMercaditoLujan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoMercaditoLujan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
