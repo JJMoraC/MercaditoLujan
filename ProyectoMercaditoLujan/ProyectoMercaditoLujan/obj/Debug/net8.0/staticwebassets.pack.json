@@ -117,10 +117,6 @@
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_testimonials.scss"
     },
     {
-      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
       "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -261,16 +257,56 @@
       "PackagePath": "staticwebassets\\img\\team\\team-3.jpg"
     },
     {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\asientos.js",
+      "PackagePath": "staticwebassets\\js\\asientos.js"
+    },
+    {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\js\\daterangepicker.js"
+    },
+    {
       "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\form-validate.js",
       "PackagePath": "staticwebassets\\js\\form-validate.js"
+    },
+    {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\index.html",
+      "PackagePath": "staticwebassets\\js\\index.html"
+    },
+    {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jarallax.min.js",
+      "PackagePath": "staticwebassets\\js\\jarallax.min.js"
     },
     {
       "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery-1.11.3.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-1.11.3.min.js"
     },
     {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.animateNumber.min.js"
+    },
+    {
       "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery.countdown.js",
       "PackagePath": "staticwebassets\\js\\jquery.countdown.js"
+    },
+    {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.min.js"
     },
     {
       "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery.isotope-3.0.6.min.js",
@@ -285,12 +321,28 @@
       "PackagePath": "staticwebassets\\js\\jquery.meanmenu.min.js"
     },
     {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+    },
+    {
       "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\moment.min.js"
+    },
+    {
       "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
       "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\site.js",
@@ -299,6 +351,10 @@
     {
       "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\sticker.js",
       "PackagePath": "staticwebassets\\js\\sticker.js"
+    },
+    {
+      "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\typed.js",
+      "PackagePath": "staticwebassets\\js\\typed.js"
     },
     {
       "Id": "D:\\FIDÉLITAS\\MERCADITO LUJAN\\MercaditoLujan\\ProyectoMercaditoLujan\\ProyectoMercaditoLujan\\wwwroot\\js\\waypoints.js",
